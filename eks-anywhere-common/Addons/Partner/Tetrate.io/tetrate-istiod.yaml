@@ -16,9 +16,9 @@ spec:
   values:
     tid-base:
       defaultRevision: ""
-    revision: 1-21-0-1
+    revision: 1-21-0-tetrate1
     tid-cni:
-      revision: 1-21-0-1
+      revision: 1-21-0-tetrate1
     global:
       istioNamespace: tetrate-istio-system
     pilot:
