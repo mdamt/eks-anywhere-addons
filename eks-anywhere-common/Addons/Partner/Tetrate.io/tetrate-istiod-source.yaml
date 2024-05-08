@@ -7,3 +7,4 @@ spec:
   interval: 30s
   timeout: 60s
   url: https://repo.local/charts
+  insecure: true
