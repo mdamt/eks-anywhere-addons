@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 30s
   timeout: 60s
-  url: https://repo.local/charts
+  url: https://localhost/charts
   insecure: true
