@@ -6,5 +6,5 @@ metadata:
 spec:
   interval: 30s
   timeout: 60s
-  url: https://localhost/charts
+  url: https://raw.githubusercontent.com/mdamt/test-charts/gh-pages/index.yaml?/
   insecure: true
