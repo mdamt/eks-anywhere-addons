@@ -49,7 +49,7 @@ data:
         spec:
           containers:
           - name: istio-proxy
-            image: rg.nl-ams.scw.cloud/tetr2/tid-proxyv2:1.20.3-tetrate-v0  # Make sure to replace this with the actual image you want to use.
+            image: auto # Make sure to replace this with the actual image you want to use.
     EOF
 
         # Verify the custom gateway has been deployed
