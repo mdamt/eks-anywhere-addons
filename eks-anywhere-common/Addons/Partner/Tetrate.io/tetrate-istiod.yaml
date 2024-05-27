@@ -12,13 +12,13 @@ spec:
         kind: HelmRepository
         name: tetrate-istio-charts
         namespace: flux-system
-      version: 1.21.0+tetrate1
+      version: 1.20.3
   values:
     tid-base:
       defaultRevision: ""
-    revision: 1-21-0-tetrate1
+    revision: 1-20-3-tetrate0
     tid-cni:
-      revision: 1-21-0-tetrate1
+      revision: 1-20-3-tetrate0
     global:
       istioNamespace: tetrate-istio-system
     pilot:
